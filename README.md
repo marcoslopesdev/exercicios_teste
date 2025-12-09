@@ -45,16 +45,8 @@ O sistema:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java 17+**  
 - **IntelliJ IDEA**  
 - **Git / GitHub**
-
----
-
-## 📦 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/marcoslopesdev/exercicios_teste
